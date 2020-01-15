@@ -1,0 +1,46 @@
+body{
+font-size: 30px;
+background-color: green;
+
+}
+a{
+    text-decoration: none;
+}
+
+.all{
+    margin: 9px;
+    float: right;
+   border: 10px solid white;
+}
+
+.red{
+
+    height: 200px;
+    width: 200px;
+    background-color: red;
+
+    border: 6px solid darkred;
+    
+
+}
+
+.yellow{
+
+    height: 200px;
+    width: 200px;
+    background-color:yellow;
+
+    border: 6px solid black;
+
+}
+
+.green{
+
+    height: 200px;
+    width: 200px;
+    background-color: green;
+  
+    border: 6px solid black;
+
+
+}
